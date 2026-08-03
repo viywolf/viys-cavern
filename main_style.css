@@ -1,0 +1,82 @@
+body{
+    background-color: purple;
+}
+
+h1{
+    color: purple;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3{
+
+}
+
+p{
+
+}
+
+a{
+
+}
+
+img{
+
+}
+
+button{
+
+}
+
+header{
+    height: 200px;
+    border: 1px solid red;
+}
+
+section{
+    background-color: black;
+    margin: 5vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: stretch;
+}
+
+section div{
+    width: 70vw;
+    border: 5px solid white;
+}
+
+section img{
+    height: 350px;
+}
+
+ul{
+
+}
+
+li{
+
+}
+
+#showcase{
+    height: 60vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+
+.card{
+    background-color: white;
+    padding: 2vw;
+    margin: 1vw;
+    width: 15vw;
+}
